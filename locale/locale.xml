@@ -99,7 +99,7 @@
 	<!-- Common Messages -->
 	<message key="common.openConferenceSystems">Open Conference Systems</message>
 	<message key="common.noDate">(date)</message>
-	<message key="common.time">Time</message>
+	<message key="common.time">Час</message>
 	<message key="common.days">days</message>
 	<message key="common.timeZone">Time Zone</message>
 	<message key="common.ellipsis">...</message>
